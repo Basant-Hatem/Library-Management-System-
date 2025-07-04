@@ -1,0 +1,165 @@
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dasboard.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form1.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CopyComplete
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBooks.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.DisplayBooks.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddStudent.resources
+C:\Users\janaa_9ia\source\repos\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.ViewStudent.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBooks.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddStudent.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dasboard.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.DisplayBooks.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form1.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.ViewStudent.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryM.685EF3B5.Up2Date
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
+C:\Users\maria\OneDrive\Desktop\LibraryManagement2\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form2.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBooks.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddStudent.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dasboard.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.DisplayBooks.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form1.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form2.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.ViewStudent.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryM.685EF3B5.Up2Date
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement2 - Copy\LibraryManagement2 - Copy\LibraryManagement2\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBookCopy.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBookCopy.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBooks.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddStudent.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dasboard.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.DisplayBooks.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form1.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form2.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Join.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.ViewStudent.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryM.685EF3B5.Up2Date
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.BookReports.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.StudentReports.resources
+C:\Users\User\OneDrive\Desktop\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dashboard2.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.exe
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.deps.json
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBookCopy.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddBooks.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AddStudent.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.BookReports.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dasboard.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Dashboard2.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.DisplayBooks.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form1.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Form2.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Join.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.StudentReports.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.ViewStudent.resources
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryM.685EF3B5.Up2Date
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\refint\LibraryManagement.dll
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.pdb
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\DATABASE\LibraryManagement\LibraryManagement\obj\Debug\net6.0-windows\ref\LibraryManagement.dll
